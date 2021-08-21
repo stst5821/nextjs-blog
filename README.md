@@ -1,3 +1,5 @@
+Next.js tutorial を進めて、完成したら Typescript 化する
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
